@@ -8,7 +8,8 @@
 
 ```python run_gui.py```
 
-![img_v3_02o6_f33017e7-0257-4de1-b4b6-5d9547b86c4g](https://github.com/user-attachments/assets/0ae45114-9070-43bb-8b37-30ccfe405205)
+![img_v3_02o6_f33017e7-0257-4de1-b4b6-5d9547b86c4g](https://github.com/user-attachments/assets/f2cc6f98-95a6-40bc-893b-037e4c42ca88)
+
 
 ## 更新功能
 
